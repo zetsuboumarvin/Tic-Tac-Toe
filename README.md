@@ -1,5 +1,6 @@
 # Tic-Tac-Toe
 JetBrains Academy's project
+
 Tic-Tac-Toe, also known as noughts and crosses or Xs and Os.
 
 The bottom left cell has the coordinates (1, 1) and the top right cell has the coordinates (3, 3) like in this table:
